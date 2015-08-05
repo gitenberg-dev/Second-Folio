@@ -1,58 +1,13 @@
 [
   {
-    "GitHub repo": "Adventures-of-Huckleberry-Finn_76",
-    "cover_artist": "Priscilla Parizeau",
-    "local_big_file": "rtc_The+Adventures+of+Huckleberry+Finn_Priscilla+Parizeau.jpeg"
+    "GitHub repo": "Persuasion_105",
+    "cover_artist": "Heather Main",
+    "local_big_file": "rtc_Persuasion_Heather+Main.jpg"
   },
   {
     "GitHub repo": "Don-Quixote_996",
     "cover_artist": "Wedha Abdul Rasyid",
     "local_big_file": "rtc_Don+Quixote_Wedha+Abdul+Rasyid.jpeg"
-  },
-  {
-    "GitHub repo": "Dubliners_2814",
-    "cover_artist": "Devin",
-    "local_big_file": "rtc_Dubliners_Devin.jpeg"
-  },
-  {
-    "GitHub repo": "Jane-Eyre_1260",
-    "cover_artist": "Ed Gaither - Modern Electrographic",
-    "local_big_file": "rtc_Jane+Eyre_Ed+Gaither+-+Modern+Electrographic.jpg"
-  },
-  {
-    "GitHub repo": "Moby-Dick--Or-The-Whale_2701",
-    "cover_artist": "Black Dwarf Designs",
-    "local_big_file": "rtc_Moby+Dick_Black+Dwarf+Designs.jpg"
-  },
-  {
-    "GitHub repo": "Narrative-of-the-Life-of-Frederick-Douglass-an-American-Slave_23",
-    "cover_artist": null,
-    "local_big_file": null
-  },
-  {
-    "GitHub repo": "Pride-and-Prejudice_1342",
-    "cover_artist": "Tim Daniel",
-    "local_big_file": "rtc_Pride+and+Prejudice_Tim+Daniel.jpeg"
-  },
-  {
-    "GitHub repo": "The-Adventures-of-Sherlock-Holmes_1661",
-    "cover_artist": "Maria Papaefstathiou",
-    "local_big_file": "rtc_The+Adventures+of+Sherlock+Holmes_Maria+Papaefstathiou.jpeg"
-  },
-  {
-    "GitHub repo": "The-Brothers-Karamazov_28054",
-    "cover_artist": "Roberlan Borges",
-    "local_big_file": "rtc_The+Brothers+Karamazov_Roberlan+Borges.jpeg"
-  },
-  {
-    "GitHub repo": "The-Time-Machine_35",
-    "cover_artist": "Jon Cain",
-    "local_big_file": "rtc_The+Time+Machine_Jon+Cain.jpeg"
-  },
-  {
-    "GitHub repo": "Frankenstein_84",
-    "cover_artist": "Luis Prado",
-    "local_big_file": "rtc_Frankenstein_Luis+Prado.jpeg"
   },
   {
     "GitHub repo": "Middlemarch_145",
@@ -131,8 +86,8 @@
   },
   {
     "GitHub repo": "The-Awakening-and-Selected-Short-Stories_160",
-    "cover_artist": null,
-    "local_big_file": null
+    "cover_artist": "Ed Gaither - Modern Electrographic",
+    "local_big_file": "rtc_The+Awakening_Ed+Gaither+-+Modern+Electrographic.jpeg"
   },
   {
     "GitHub repo": "The-Jungle_140",
@@ -185,29 +140,14 @@
     "local_big_file": "rtc_Anna+Karenina_Victoria+Fernandez.jpeg"
   },
   {
-    "GitHub repo": "Gulliver-s-Travels_829",
-    "cover_artist": "Naomi Sloman",
-    "local_big_file": "rtc_Gulliver+s+Travels_Naomi+Sloman.jpeg"
-  },
-  {
     "GitHub repo": "Divine-Comedy-Longfellow-s-Translation-Hell_1001",
     "cover_artist": null,
     "local_big_file": null
   },
   {
-    "GitHub repo": "Les-Mis-rables_135",
-    "cover_artist": "Jon Cain",
-    "local_big_file": "rtc_Les+Miserables_Jon+Cain.jpeg"
-  },
-  {
     "GitHub repo": "Swann-s-Way_7178",
     "cover_artist": "Louise Norman",
     "local_big_file": "rtc_Swann+s+Way_Louise+Norman.jpeg"
-  },
-  {
-    "GitHub repo": "The-Count-of-Monte-Cristo_1184",
-    "cover_artist": "Sara Nauman",
-    "local_big_file": "rtc_The+Count+of+Monte+Cristo_Sara+Nauman.jpeg"
   },
   {
     "GitHub repo": "The-Hunchback-of-Notre-Dame_6539",
@@ -220,24 +160,9 @@
     "local_big_file": "rtc_Three+Musketeers_Ioannis+Fetanis.jpeg"
   },
   {
-    "GitHub repo": "The-Works-of-Edgar-Allan-Poe-The-Raven-EditionTable-Of-Contents-And-Index-Of-The-Five-Volumes_25525",
-    "cover_artist": "Adam S. Doyle",
-    "local_big_file": "rtc_The+Works+of+Edgar+Allan+Poe_Adam+S+++Doyle.jpeg"
-  },
-  {
     "GitHub repo": "Through-the-Looking-Glass_12",
     "cover_artist": "Alex Kostiw",
     "local_big_file": "rtc_Through+the+Looking+Glass_Alex+Kostiw.jpeg"
-  },
-  {
-    "GitHub repo": "Twenty-Thousand-Leagues-under-the-Sea_164",
-    "cover_artist": "Wade Greenberg",
-    "local_big_file": "rtc_Twenty+Thousand+Leagues+Under+the+Sea_Wade+Greenberg.jpeg"
-  },
-  {
-    "GitHub repo": "War-and-Peace_2600",
-    "cover_artist": "T.M. Serlin",
-    "local_big_file": "rtc_War+and+Peace_T++M+++Serlin.jpeg"
   },
   {
     "GitHub repo": "Winesburg-Ohio--A-Group-of-Tales-of-Ohio-Small-Town-Life_416",
@@ -246,22 +171,97 @@
   },
   {
     "GitHub repo": "My-Antonia_242",
-    "cover_artist": null,
-    "local_big_file": null
+    "cover_artist": "Ed Gaither - Modern Electrographic",
+    "local_big_file": "rtc_My+Antonia_Ed+Gaither+-+Modern+Electrographic.jpeg"
   },
   {
     "GitHub repo": "Bleak-House_1023",
-    "cover_artist": null,
-    "local_big_file": null
+    "cover_artist": "Ed Gaither - Modern Electrographic",
+    "local_big_file": "rtc_Bleak+House_Ed+Gaither+-+Modern+Electrographic.jpeg"
   },
   {
-    "GitHub repo": "Persuasion_105",
-    "cover_artist": null,
-    "local_big_file": null
+    "GitHub repo": "Twenty-Thousand-Leagues-under-the-Sea_164",
+    "cover_artist": "Wade Greenberg",
+    "local_big_file": "rtc_Twenty+Thousand+Leagues+Under+the+Sea_Wade+Greenberg.jpeg"
+  },
+  {
+    "GitHub repo": "Jane-Eyre_1260",
+    "cover_artist": "Ed Gaither - Modern Electrographic",
+    "local_big_file": "rtc_Jane+Eyre_Ed+Gaither+-+Modern+Electrographic.jpg"
+  },
+  {
+    "GitHub repo": "Moby-Dick--Or-The-Whale_2701",
+    "cover_artist": "Black Dwarf Designs",
+    "local_big_file": "rtc_Moby+Dick_Black+Dwarf+Designs.jpg"
+  },
+  {
+    "GitHub repo": "Narrative-of-the-Life-of-Frederick-Douglass-an-American-Slave_23",
+    "cover_artist": "Benjy Brooke",
+    "local_big_file": "rtc_Narrative+of+the+Life+of+Frederick+Douglass_Benjy+Brooke.jpeg"
+  },
+  {
+    "GitHub repo": "Pride-and-Prejudice_1342",
+    "cover_artist": "Tim Daniel",
+    "local_big_file": "rtc_Pride+and+Prejudice_Tim+Daniel.jpeg"
+  },
+  {
+    "GitHub repo": "The-Adventures-of-Sherlock-Holmes_1661",
+    "cover_artist": "Maria Papaefstathiou",
+    "local_big_file": "rtc_The+Adventures+of+Sherlock+Holmes_Maria+Papaefstathiou.jpeg"
+  },
+  {
+    "GitHub repo": "The-Brothers-Karamazov_28054",
+    "cover_artist": "Roberlan Borges",
+    "local_big_file": "rtc_The+Brothers+Karamazov_Roberlan+Borges.jpeg"
+  },
+  {
+    "GitHub repo": "Frankenstein_84",
+    "cover_artist": "Luis Prado",
+    "local_big_file": "rtc_Frankenstein_Luis+Prado.jpeg"
+  },
+  {
+    "GitHub repo": "Dubliners_2814",
+    "cover_artist": "Devin",
+    "local_big_file": "rtc_Dubliners_Devin.jpeg"
+  },
+  {
+    "GitHub repo": "Adventures-of-Huckleberry-Finn_76",
+    "cover_artist": "Priscilla Parizeau",
+    "local_big_file": "rtc_The+Adventures+of+Huckleberry+Finn_Priscilla+Parizeau.jpeg"
+  },
+  {
+    "GitHub repo": "The-Time-Machine_35",
+    "cover_artist": "Jon Cain",
+    "local_big_file": "rtc_The+Time+Machine_Jon+Cain.jpeg"
   },
   {
     "GitHub repo": "",
-    "cover_artist": null,
-    "local_big_file": null
+    "cover_artist": "nick fairbank - f9 design",
+    "local_big_file": "rtc_Ulysses_nick+fairbank+-+f9+design.jpeg"
+  },
+  {
+    "GitHub repo": "Gulliver-s-Travels_829",
+    "cover_artist": "Naomi Sloman",
+    "local_big_file": "rtc_Gulliver+s+Travels_Naomi+Sloman.jpeg"
+  },
+  {
+    "GitHub repo": "Les-Mis-rables_135",
+    "cover_artist": "Jon Cain",
+    "local_big_file": "rtc_Les+Miserables_Jon+Cain.jpeg"
+  },
+  {
+    "GitHub repo": "The-Count-of-Monte-Cristo_1184",
+    "cover_artist": "Sara Nauman",
+    "local_big_file": "rtc_The+Count+of+Monte+Cristo_Sara+Nauman.jpeg"
+  },
+  {
+    "GitHub repo": "The-Works-of-Edgar-Allan-Poe-The-Raven-EditionTable-Of-Contents-And-Index-Of-The-Five-Volumes_25525",
+    "cover_artist": "Adam S. Doyle",
+    "local_big_file": "rtc_The+Works+of+Edgar+Allan+Poe_Adam+S+++Doyle.jpeg"
+  },
+  {
+    "GitHub repo": "War-and-Peace_2600",
+    "cover_artist": "T.M. Serlin",
+    "local_big_file": "rtc_War+and+Peace_T++M+++Serlin.jpeg"
   }
 ]
