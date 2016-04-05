@@ -235,7 +235,7 @@
     "local_big_file": "rtc_The+Time+Machine_Jon+Cain.jpeg"
   },
   {
-    "GitHub repo": "",
+    "GitHub repo": "Ulysses_4300",
     "cover_artist": "nick fairbank - f9 design",
     "local_big_file": "rtc_Ulysses_nick+fairbank+-+f9+design.jpeg"
   },
@@ -268,5 +268,10 @@
     "GitHub repo": "Great-Expectations_1400",
     "cover_artist": "Grace Kennedy",
     "local_big_file": "rtc_Great+Expectations_Grace+Kennedy.jpeg"
-  }
+  },
+  {
+    "GitHub repo": "The-Good-Soldier_2775",
+    "cover_artist": "vikram nongmaithem",
+    "local_big_file": "rtc_The+Good+Soldier_vikram+nongmaithem.jpeg"
+  },
 ]
